@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Customer folder
+data/
+model/
+.idea/
+.DS_Store
